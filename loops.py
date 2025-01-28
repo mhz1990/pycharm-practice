@@ -11,12 +11,12 @@
 # #     print("I don't like that...")
 # # else:
 # #     print("Not bad!")
-#
-#
-# start = 1
-#
-# while start <100:
-#      start *= 2
-#      print(start)
-# else:
-#     print("Loop is over")
+
+
+start = 1
+
+while start <100:
+     start *= 2
+     print(start)
+else:
+    print("Loop is over")
