@@ -1,0 +1,7 @@
+Scan started at: 2025-02-04 09:39:01.539482
+Scanning host: 192.168.254.254
+
+An error occurred: cannot access local variable 'open_ports' where it is not associated with a value
+
+Scan ended at: 2025-02-04 09:39:01.802549
+Total scan duration: 0:00:00.263067

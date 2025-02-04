@@ -1,0 +1,9 @@
+Scan started at: 2025-02-04 09:08:08.964929
+Scanning host: 192.168.254.254
+
+Port 53 is open. 
+Port 80 is open. 
+Port 443 is open. 
+
+Scan ended at: 2025-02-04 09:08:45.957753
+Total scan duration: 0:00:36.992824
